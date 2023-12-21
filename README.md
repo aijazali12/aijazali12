@@ -5,8 +5,6 @@
 - 💞️ I’m looking to collaborate on android and reactnative related libraries and projects
 - 📫 How to reach me on https://www.smartfunstudios.com
      or
-    [![Contact me on Codementor](https://www.codementor.io/m-badges/aijazali/im-a-cm-b.svg)](https://www.codementor.io/@aijazali?refer=badge)
-     or
    Upwork: https://www.upwork.com/freelancers/~011a3c921ea49eae04?viewMode=1
   
 <!---
