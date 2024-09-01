@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aijazali12, CTO at SmartFun Studios (Pvt) Ltd.
+- 👋 Hi, I’m @aijazali12, Solution Architect | Pre-Sale Consultant | 13+ years experience
 - 👀 I’m interested in MEAN/MERN stack, ReactNative, Flutter, DevOps, Graphics(UI/UX), Python(Django/Flask), Android using java/kotlin, iOS with swift/objC laravel and codeigniter
 - 🌱 I’have expertise CI/CD using github actions, fastlane, vercel, jenkins, docker
 - 🌱 I’have expertise in setting up and deployment of apps on cloud servers (AWS, DigitalOcean, GCP and other VPS)
